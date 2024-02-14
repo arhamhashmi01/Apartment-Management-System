@@ -32,7 +32,7 @@ Welcome to the Apartment Management System repository! This desktop software off
         
         Pip install pillow.
 
-  **6):** Also, make sure to install connector which connects python with ny sql database.
+  **6):** Also, make sure to install connector which connects python with my sql database.
 
         Pip install mysql-connector-python.
 
