@@ -26,7 +26,7 @@ Welcome to the Apartment Management System repository! This desktop software off
 
   **4):** Then create the tables which are given in the word file above.
 
-  **5):** Please make sure to installed the pre-requisitr python libraries using the following commands.
+  **5):** Please make sure to installed the pre-requisite python libraries using the following commands.
 
         Pip install tkinter.
         
