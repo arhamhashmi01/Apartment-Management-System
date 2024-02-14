@@ -5,15 +5,15 @@ Welcome to the Apartment Management System repository! This desktop software off
 
 ## Key Features:
 
-  # Apartment Hall Booking Management: 
+### Apartment Hall Booking Management: 
     Easily book and manage apartment halls for various events and gatherings within the complex.
-  # Building Maintenance Tracking: 
+### Building Maintenance Tracking: 
     Keep track of maintenance tasks and schedules for the entire apartment building, ensuring timely upkeep and repairs.
-  # MySQL Database Integration:  
+### MySQL Database Integration:  
     Utilizes MySQL database to store and manage apartment-related data securely and efficiently.
-  # User-Friendly Interface: 
+### User-Friendly Interface: 
     Designed with a user-friendly GUI using Python's Tkinter library, ensuring ease of use for all users, including non-technical personnel.
-  # Desktop Application: 
+### Desktop Application: 
     A standalone desktop software solution, providing flexibility and accessibility for managing apartment operations locally.
 
 ## How to access this software?
