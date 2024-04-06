@@ -3,6 +3,12 @@
 ## Description:
 Welcome to the Apartment Management System repository! This desktop software offers a comprehensive solution for efficiently managing various aspects of apartment complexes. Developed using Python, specifically leveraging the Tkinter library for GUI design, this software provides an intuitive interface for users to navigate and manage apartment hall bookings and building maintenance tasks seamlessly.
 
+**LOGIN PAGE**
+<img src="https://github.com/arhamhashmi01/Apartment-Management-System/blob/main/project-images/login_page.png" alt="login page">
+
+**DASHBOARD**
+<img src="https://github.com/arhamhashmi01/Apartment-Management-System/blob/main/project-images/dashboard.png" alt="dashboard">
+
 ## Key Features:
 
   **Apartment Hall Booking Management:** Easily book and manage apartment halls for various events and gatherings within the complex.
